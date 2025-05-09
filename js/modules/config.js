@@ -8,7 +8,7 @@ export const state = {
     freelancerData: {},
     currentCategory: 'web-development',
     currentPage: 1,
-    freelancersPerPage: 28,
+    freelancersPerPage: 20,
     metaData: {
         lastUpdated: "2025-05-07 17:45:45",
         updatedBy: "souhail4real"
